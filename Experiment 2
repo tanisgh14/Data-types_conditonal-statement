@@ -43,9 +43,8 @@ Value of Char_var is: t
 Value of flag is: 1
 */
 
-/*  PRN:22070123118
-    Experiment no:2(b)
-*/
+// PRN:22070123123
+//Experiment no:2(b)
 #include <iostream>
 using namespace std;
 
@@ -71,9 +70,8 @@ The size of Char_var is: 1
 The size of flag is: 1
 */
 
-/*  PRN:22070123118
-    Experiment no:2(c)
-*/
+//22070123123
+//Experiment no:2(c)
 #include <iostream>
 using namespace std;
 
@@ -118,9 +116,8 @@ Value of flag is: 0
 Value of pi is: 3.14
 */
 
-/*  PRN:22070123118
-    Experiment no:2(d)
-*/
+//PRN:22070123123
+//Experiment no:2(d)
 #include <iostream>
 using namespace std;
 
@@ -137,9 +134,8 @@ return 0;
 Image is colorfull
 */
 
-/*  PRN:22070123118
-    Experiment no:2(e)
-*/
+//PRN:22070123123
+//Experiment no:2(e)
 #include<iostream>
 using namespace std;
 
