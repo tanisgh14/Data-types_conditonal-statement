@@ -1,6 +1,7 @@
-/*  PRN:22070123123
-    Experiment no:2(a)
-*/
+//tanish verma
+// PRN:22070123123
+//Experiment no:2(a)
+
 #include <iostream>
 using namespace std;
 
